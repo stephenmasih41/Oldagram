@@ -78,14 +78,26 @@ main p {
   height: 22.13px;
 }
 
+#icons #heart:hover {
+  background-color: red;
+}
+
 #icons #comment {
   width: 18.65px;
   height: 18.65px;
 }
 
+#icons #comment:hover {
+  background-color: #c6c6c6;
+}
+
 #icons #share {
   width: 22.38px;
   height: 18.65px;
+}
+
+#icons #share:hover {
+  background-color: #c6c6c6;
 }
 
 /* Likes */
